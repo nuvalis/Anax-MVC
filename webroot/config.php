@@ -26,6 +26,6 @@ include(ANAX_APP_PATH . 'config/autoloader.php');
  * Include global functions.
  *
  */
-include(ANAX_INSTALL_PATH . 'src/functions.php'); 
+include(ANAX_INSTALL_PATH . 'system/functions.php'); 
 
 
